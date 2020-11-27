@@ -23,7 +23,7 @@ def nyc_pigeon_organizer(data)
         pigeon_list[i][keys] = src.collect {|i, a| i.to_s}
       }
       #binding.pry
-    } 
+  } 
   #binding.pry
   pigeon_list
   
